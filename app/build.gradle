@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.ktlan2_sqlite'
+    namespace 'com.example.android_th2'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.ktlan2_sqlite"
+        applicationId "com.example.android_th2"
         minSdk 24
         targetSdk 33
         versionCode 1

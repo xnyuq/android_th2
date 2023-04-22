@@ -1,4 +1,4 @@
-package com.example.ktlan2_sqlite.fragment;
+package com.example.android_th2.fragment;
 
 import android.app.DatePickerDialog;
 import android.os.Bundle;
@@ -20,10 +20,10 @@ import android.widget.SearchView;
 import android.widget.Spinner;
 import android.widget.TextView;
 
-import com.example.ktlan2_sqlite.R;
-import com.example.ktlan2_sqlite.adapter.RecycleViewAdapter;
-import com.example.ktlan2_sqlite.database.SQLiteHelper;
-import com.example.ktlan2_sqlite.model.Item;
+import com.example.android_th2.R;
+import com.example.android_th2.adapter.RecycleViewAdapter;
+import com.example.android_th2.database.SQLiteHelper;
+import com.example.android_th2.model.Item;
 
 import java.util.Calendar;
 import java.util.List;

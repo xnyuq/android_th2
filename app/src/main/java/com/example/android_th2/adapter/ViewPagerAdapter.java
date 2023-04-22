@@ -1,13 +1,13 @@
-package com.example.ktlan2_sqlite.adapter;
+package com.example.android_th2.adapter;
 
 import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentStatePagerAdapter;
 
-import com.example.ktlan2_sqlite.fragment.HistoryFragment;
-import com.example.ktlan2_sqlite.fragment.HomeFragment;
-import com.example.ktlan2_sqlite.fragment.SearchFragment;
+import com.example.android_th2.fragment.HistoryFragment;
+import com.example.android_th2.fragment.HomeFragment;
+import com.example.android_th2.fragment.SearchFragment;
 
 public class ViewPagerAdapter extends FragmentStatePagerAdapter {
 

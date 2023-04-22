@@ -1,4 +1,4 @@
-package com.example.ktlan2_sqlite.database;
+package com.example.android_th2.database;
 
 import android.content.ContentValues;
 import android.content.Context;
@@ -8,7 +8,7 @@ import android.database.sqlite.SQLiteOpenHelper;
 
 import androidx.annotation.Nullable;
 
-import com.example.ktlan2_sqlite.model.Item;
+import com.example.android_th2.model.Item;
 
 import java.util.ArrayList;
 import java.util.List;

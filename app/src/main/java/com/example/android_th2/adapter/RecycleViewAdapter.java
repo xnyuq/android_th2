@@ -1,17 +1,16 @@
-package com.example.ktlan2_sqlite.adapter;
+package com.example.android_th2.adapter;
 
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.RadioGroup;
 import android.widget.RatingBar;
 import android.widget.TextView;
 
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.ktlan2_sqlite.R;
-import com.example.ktlan2_sqlite.model.Item;
+import com.example.android_th2.R;
+import com.example.android_th2.model.Item;
 
 import java.util.ArrayList;
 import java.util.List;

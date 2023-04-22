@@ -1,4 +1,4 @@
-package com.example.ktlan2_sqlite.model;
+package com.example.android_th2.model;
 
 import java.io.Serializable;
 
@@ -18,6 +18,13 @@ public class Item implements Serializable {
         this.date = date;
         this.scope = scope;
         this.rate = rate;
+    }
+    public Item(int id, String title, String category, String price, String date) {
+        this.id = id;
+        this.title = title;
+        this.category = category;
+        this.price = price;
+        this.date = date;
     }
 
     public Item(String title, String category, String price, String date, String scope, int rate) {

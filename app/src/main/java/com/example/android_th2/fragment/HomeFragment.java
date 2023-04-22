@@ -1,4 +1,4 @@
-package com.example.ktlan2_sqlite.fragment;
+package com.example.android_th2.fragment;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -14,11 +14,11 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import com.example.ktlan2_sqlite.R;
-import com.example.ktlan2_sqlite.UpdateDeleteActivity;
-import com.example.ktlan2_sqlite.adapter.RecycleViewAdapter;
-import com.example.ktlan2_sqlite.database.SQLiteHelper;
-import com.example.ktlan2_sqlite.model.Item;
+import com.example.android_th2.R;
+import com.example.android_th2.UpdateDeleteActivity;
+import com.example.android_th2.adapter.RecycleViewAdapter;
+import com.example.android_th2.database.SQLiteHelper;
+import com.example.android_th2.model.Item;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

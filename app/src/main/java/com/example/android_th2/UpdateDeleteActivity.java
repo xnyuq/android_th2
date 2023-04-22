@@ -1,4 +1,4 @@
-package com.example.ktlan2_sqlite;
+package com.example.android_th2;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -15,8 +15,8 @@ import android.widget.RadioGroup;
 import android.widget.RatingBar;
 import android.widget.Spinner;
 
-import com.example.ktlan2_sqlite.database.SQLiteHelper;
-import com.example.ktlan2_sqlite.model.Item;
+import com.example.android_th2.database.SQLiteHelper;
+import com.example.android_th2.model.Item;
 
 import java.util.Calendar;
 

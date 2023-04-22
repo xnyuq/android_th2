@@ -1,4 +1,4 @@
-package com.example.ktlan2_sqlite;
+package com.example.android_th2;
 
 import org.junit.Test;
 
